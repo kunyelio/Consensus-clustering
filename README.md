@@ -5,8 +5,6 @@ Download the following libraries from spark-2.3.0-hadoop2.7 binary release
 (spark-2.3.0-bin-hadoop2.7/jars folder) and copy them under lib folder. Then
 create an Eclipse Java project and import this directory. 
 
-After 
-
 JavaEWAH-0.3.2.jar
 RoaringBitmap-0.5.11.jar
 ST4-4.0.4.jar
